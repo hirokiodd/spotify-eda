@@ -1,0 +1,550 @@
+,artist,song_name,song_id,release_date,release_date_precision,popularity
+0,Taylor Swift,Cruel Summer,1BxfuPKGuaTgP7aM0Bbdwr,2019-08-23,day,99
+1,Taylor Swift,Is It Over Now? (Taylor's Version) (From The Vault),1Iq8oo9XkmmvCQiGOfORiz,2023-10-26,day,93
+2,Taylor Swift,Anti-Hero,0V3wPSX9ygBnCm8psDIegu,2022-10-21,day,92
+3,Drake,IDGAF (feat. Yeat),2YSzYUF3jWqb9YP9VXmpjE,2023-10-06,day,92
+4,Drake,Rich Baby Daddy (feat. Sexyy Red & SZA),1yeB8MUNeLo9Ek1UEpsyz6,2023-10-06,day,92
+5,Drake,First Person Shooter (feat. J. Cole),7aqfrAY2p9BUSiupwk3svU,2023-10-06,day,90
+6,The Weeknd,"One Of The Girls (with JENNIE, Lily Rose Depp)",7CyPwkp0oE8Ro9Dd5CUDjW,2023-06-23,day,97
+7,The Weeknd,Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series,6WzRpISELf3YglGAh7TXcG,2023-06-02,day,95
+8,The Weeknd,Starboy,7MXVkk9YMctZqd1Srtv4MB,2016-11-25,day,94
+9,Arctic Monkeys,I Wanna Be Yours,5XeFesFbtLpXzIVDNQP22n,2013-09-09,day,96
+10,Arctic Monkeys,505,0BxE4FqsDD1Ot4YuBXwAPp,2007-04-22,day,88
+11,Arctic Monkeys,Why'd You Only Call Me When You're High?,086myS9r57YsLbJpU0TgK9,2013-09-09,day,91
+12,Ed Sheeran,Perfect,0tgVpDi06FyKpA1z0VMD4v,2017-03-03,day,90
+13,Ed Sheeran,Shape of You,7qiZfU4dY1lWllzX7mPBI3,2017-03-03,day,89
+14,Ed Sheeran,Photograph,3FSPaBp49Clqq2p4zc9dbA,2013,year,57
+15,Kanye West,Heartless,4EWCNWgDS8707fNSZ1oaA5,2008-11-24,day,91
+16,Kanye West,Flashing Lights,5TRPicyLGbAF2LGBFbHGvO,2007-09-11,day,90
+17,Kanye West,Father Stretch My Hands Pt. 1,4KW1lqgSr8TKrvBII0Brf8,2016-06-10,day,90
+18,Eminem,Without Me,7lQ8MOhq6IN2w8EYcFNSUk,2002-05-26,day,91
+19,Eminem,Mockingbird,561jH07mF1jHuk7KlaeF0s,2004-11-12,day,91
+20,Eminem,The Real Slim Shady,3yfqSUWxFvZELEM4PmlwIR,2000-05-23,day,90
+21,Dave,Sprinter,2FDTHlrBguDzQkp7PVj16Q,2023-06-01,day,90
+22,Dave,Location (feat. Burna Boy),3z4CGd63tpUn9a6oQSG0CI,2019-03-08,day,80
+23,Dave,Stop Giving Me Advice (with Jack Harlow & Dave),6j3wDNKqEeZ6QwPtCcpJX8,2023-12-08,day,80
+24,Rihanna,We Found Love,0U10zFw4GlBacOy9VDGfGL,2011-11-19,day,82
+25,Rihanna,Diamonds,7i0jaBLpIADxqNbhAb4XFb,2012-12-10,day,78
+26,Rihanna,Umbrella,49FYlytm3dAAraYgpoJZux,2008-06-02,day,86
+27,SZA,Kill Bill,3OHfY25tqY28d16oZczHc8,2022-12-09,day,86
+28,SZA,Snooze,4iZ4pt7kvcaH6Yo8UoZ4s2,2022-12-09,day,93
+29,SZA,Rich Baby Daddy (feat. Sexyy Red & SZA),1yeB8MUNeLo9Ek1UEpsyz6,2023-10-06,day,92
+30,Lana Del Rey,Summertime Sadness,1Ist6PR2BZR3n2z2Y5R6S1,2012-01-01,day,79
+31,Lana Del Rey,Say Yes To Heaven,6GGtHZgBycCgGBUhZo81xe,2023-05-19,day,90
+32,Lana Del Rey,Young And Beautiful,2nMeu6UenVvwUktBCpLMK9,2013-01-01,day,88
+33,Harry Styles,As It Was,4Dvkj6JhhA12EX05fT7y2e,2022-05-20,day,95
+34,Harry Styles,Watermelon Sugar,6UelLqGlWMcVH1E5c4H7lY,2019-12-13,day,89
+35,Harry Styles,Sign of the Times,5Ohxk2dO5COHF1krpoPigN,2017-05-12,day,85
+36,Central Cee,Sprinter,2FDTHlrBguDzQkp7PVj16Q,2023-06-01,day,90
+37,Central Cee,TOO MUCH,100fbGocyqbBPQkTDchi2g,2023-11-10,day,76
+38,Central Cee,Doja,3LtpKP5abr2qqjunvjlX5i,2022-07-21,day,84
+39,D-Block Europe,Prada,59NraMJsLaMCVtwXTSia8i,2023-08-11,day,94
+40,D-Block Europe,Overseas,337kcYVjYXdLBItCw9ry3b,2021-11-19,day,73
+41,D-Block Europe,Darling,2kQ9udZ0v3H8PFSVmbY1Kq,2019-09-27,day,72
+42,Beyoncé,Crazy In Love (feat. Jay-Z),0TwBtDAWpkpM3srywFVOV5,2003-03-10,day,81
+43,Beyoncé,CUFF IT,1xzi1Jcr7mEi9K2RfzLOqS,2022-07-29,day,85
+44,Beyoncé,Halo,2MfOcbtgz2yTsiznFmVZUN,2008-11-12,day,71
+45,Travis Scott,Water - Remix,2Y4ImmYsxc4bclzGlmvlzo,2023-12-01,day,70
+46,Travis Scott,I KNOW ?,6wsqVwoiVH2kde4k4KKAFU,2023-07-28,day,92
+47,Travis Scott,FE!N (feat. Playboi Carti),42VsgItocQwOQC3XWZ8JNA,2023-07-28,day,91
+48,Calvin Harris,We Found Love,0U10zFw4GlBacOy9VDGfGL,2011-11-19,day,82
+49,Calvin Harris,One Kiss (with Dua Lipa),7ef4DlsgrMEH11cDZd32M6,2018-04-06,day,87
+50,Calvin Harris,Desire (with Sam Smith),22dUzMFttcR3uU17NcOAIv,2023-07-28,day,86
+51,David Guetta,I'm Good (Blue),4uUG5RXrOk84mYEfFvj3cK,2022-08-26,day,93
+52,David Guetta,Baby Don't Hurt Me,3BKD1PwArikchz2Zrlp1qi,2023-04-06,day,88
+53,David Guetta,Titanium (feat. Sia),0TDLuuLlV54CkRRUOahJb4,2012-12-07,day,85
+54,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,0RiRZpuVRbi7oqRdSMwhQY,2019-09-06,day,88
+55,Post Malone,Circles,21jGcNKet2qwijlDFuPiPb,2019-09-06,day,89
+56,Post Malone,Chemical,5w40ZYhbBMAlHYNDaVJIUu,2023-04-14,day,87
+57,Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",6wf7Yu7cxBSPrRlWeSeK0Q,2023-07-13,day,94
+58,Billie Eilish,lovely (with Khalid),0u2P5u6lvoDfwTYjAADbn4,2018-04-19,day,91
+59,Billie Eilish,ocean eyes,7hDVYcQq6MxkdJGweuCtl9,2017-12-22,day,85
+60,21 Savage,Creepin' (with The Weeknd & 21 Savage),2dHHgzDwk4BJdRwy9uXhTO,2022-12-02,day,92
+61,21 Savage,redrum,52eIcoLUM25zbQupAZYoFh,2024-01-12,day,89
+62,21 Savage,Jimmy Cooks (feat. 21 Savage),3F5CgOj3wFlRv51JsHbxhe,2022-06-17,day,89
+63,Olivia Rodrigo,vampire,1kuGVB7EU95pJObxwvfwKS,2023-09-08,day,95
+64,Olivia Rodrigo,Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,17cia5k4BpGVlyEfqrFH50,2023-11-17,day,87
+65,Olivia Rodrigo,bad idea right?,3IX0yuEVvDbnqUwMBB3ouC,2023-09-08,day,89
+66,Future,Too Many Nights (feat. Don Toliver & with Future),2Hh3ETdQKrmSI3QS0hme7g,2022-12-02,day,90
+67,Future,Superhero (Heroes & Villains) [with Future & Chris Brown],0vjeOZ3Ft5jvAi9SBFJm1j,2022-12-02,day,89
+68,Future,TELEKINESIS (feat. SZA & Future),1i9lZvlaDdWDPyXEE95aiq,2023-07-28,day,87
+69,Coldplay,Yellow,3AJwUDP919kvQ9QcozQPxg,2000-07-10,day,92
+70,Coldplay,Viva La Vida,3Fcfwhm8oRrBvBZ8KGhtea,2008-06-19,day,76
+71,Coldplay,Something Just Like This,6RUKPb4LETWmmr3iAEQktW,2017-04-07,day,88
+72,Chris Brown,Superhero (Heroes & Villains) [with Future & Chris Brown],0vjeOZ3Ft5jvAi9SBFJm1j,2022-12-02,day,89
+73,Chris Brown,Under The Influence,5IgjP7X4th6nMNDh4akUHb,2019-10-04,day,88
+74,Chris Brown,Angel Numbers / Ten Toes,3XqM8hLCEYlbnFjoWwqtFv,2023-11-10,day,87
+75,Adele,Set Fire to the Rain,3di5hcvxxciiqwMH1jarhY,2011-01-24,day,86
+76,Adele,Skyfall,6VObnIkLVruX4UVyxWhlqm,2012-10-04,day,89
+77,Adele,Easy On Me,46IZ0fSY2mpAiktS3KOqds,2021-11-19,day,84
+78,Lewis Capaldi,Someone You Loved,7qEHsqek33rTcFNT9PFqLf,2019-05-17,day,91
+79,Lewis Capaldi,Before You Go,2gMXnyrvIjhVBUZwvLZDMP,2019-11-22,day,87
+80,Lewis Capaldi,Wish You The Best,3gdPwk2wyOXNRnTA1KXnEr,2023-05-19,day,84
+81,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),2dHHgzDwk4BJdRwy9uXhTO,2022-12-02,day,92
+82,Metro Boomin,Too Many Nights (feat. Don Toliver & with Future),2Hh3ETdQKrmSI3QS0hme7g,2022-12-02,day,90
+83,Metro Boomin,Trance (with Travis Scott & Young Thug),5wG3HvLhF6Y5KTGlK0IW3J,2022-12-02,day,89
+84,Miley Cyrus,Flowers,7DSAEUvxU8FajXtRloy8M0,2023-08-18,day,94
+85,Miley Cyrus,Party In The U.S.A.,3E7dfMvvCLUddWissuqMwr,2009-01-01,day,85
+86,Miley Cyrus,Angels Like You,1daDRI9ahBonbWD8YcxOIB,2020-11-27,day,88
+87,Kendrick Lamar,Money Trees,74tLlkN3rgVzRqQJgPfink,2012,year,84
+88,Kendrick Lamar,All The Stars (with SZA),3GCdLUSnKSMJhs4Tj6CV3s,2018-02-09,day,87
+89,Kendrick Lamar,HUMBLE.,7KXjTSCq5nL1LoYtL7XAwS,2017-04-14,day,87
+90,Ariana Grande,"yes, and?",7gaA3wERFkFkgivjwbSvkG,2024-01-12,day,94
+91,Ariana Grande,Santa Tell Me,0lizgQ7Qw35od7CYaoMBZb,2014-11-24,day,92
+92,Ariana Grande,Die For You (with Ariana Grande) - Remix,4W4fNrZYkobj539TOWsLO2,2023-03-14,day,85
+93,Lil Baby,Drip Too Hard (Lil Baby & Gunna),78QR3Wp35dqAhFEc2qAGjE,2018-10-05,day,86
+94,Lil Baby,Freestyle,5BbdKBZO0TH0GhfxUfyhL9,2017-12-01,day,85
+95,Lil Baby,Pure Cocaine,577YBGuskWkVDCxZrLRB4v,2018-11-30,day,84
+96,Oasis,Wonderwall - Remastered,7ygpwy2qP3NbrxVkHvUhXY,1995,year,80
+97,Oasis,Don't Look Back In Anger - Remastered,12dU3vAh6AFoJkisorfoUl,1995,year,74
+98,Oasis,Stop Crying Your Heart Out,0SlpFHdk4UHBDzCEoXzy14,2002-07-01,day,68
+99,Juice WRLD,All Girls Are The Same,4VXIryQMWpIdGgYR4TrjT1,2018-12-10,day,88
+100,Juice WRLD,Lucid Dreams,285pBltuF7vW8TeWk8hdRR,2018-12-10,day,87
+101,Juice WRLD,Lace It (with Eminem & benny blanco),4qmG24ebshLXtKu9HIShBP,2023-12-16,day,85
+102,Fleetwood Mac,Dreams - 2004 Remaster,0ofHAoxe9vBkTCp2UQIavz,1977-02-04,day,88
+103,Fleetwood Mac,The Chain - 2004 Remaster,5e9TFTbltYBg2xThimr0rU,1977-02-04,day,85
+104,Fleetwood Mac,Everywhere - 2017 Remaster,254bXAqt3zP6P50BdQvEsq,1987-04-13,day,84
+105,Doja Cat,Paint The Town Red,56y1jOTK0XSvJzVv9vHQBK,2023-09-20,day,88
+106,Doja Cat,Agora Hills,5PyDJG7SQRgWXefgexqIge,2023-09-20,day,86
+107,Doja Cat,n.h.i.e.,6x9pCndnXEoea0CMcfjs9W,2024-01-12,day,86
+108,J. Cole,No Role Modelz,68Dni7IE4VyPkTOH9mRWHr,2014-12-09,day,91
+109,J. Cole,First Person Shooter (feat. J. Cole),7aqfrAY2p9BUSiupwk3svU,2023-10-06,day,90
+110,J. Cole,Wet Dreamz,4tqcoej1zPvwePZCzuAjJd,2014-12-09,day,86
+111,Dua Lipa,Houdini,5wtSei6pJpDEB1iKqPHhfU,2023-11-10,day,74
+112,Dua Lipa,Dance The Night - From Barbie The Album,1vYXt7VSjH9JIM5oRRo7vA,2023-05-25,day,93
+113,Dua Lipa,Cold Heart - PNAU Remix,6JIC3hbC28JZKZ8AlAqX8h,2021-10-22,day,84
+114,The 1975,About You,1fDFHXcykq4iw8Gg7s5hG9,2022-10-14,day,84
+115,The 1975,Somebody Else,4m0q0xQ2BNl9SCAGKyfiGZ,2016-02-26,day,75
+116,The 1975,Robbers,73jVPicY2G9YHmzgjk69ae,2013-01-01,day,74
+117,Burna Boy,City Boys,4RoKNqyZ9622tcAeNPNv5k,2023-08-24,day,81
+118,Burna Boy,just like me,5KI7I4mEtulXcv5VQJaV35,2024-01-12,day,80
+119,Burna Boy,Last Last,5YbPxJwPfrj7uswNwoF1pJ,2022-07-07,day,80
+120,The Beatles,Here Comes The Sun - Remastered 2009,6dGnYIeXmHdcikdzNNDMm2,1969-09-26,day,86
+121,The Beatles,Come Together - Remastered 2009,2EqlS6tkEnglzr7tkKAAYD,1969-09-26,day,81
+122,The Beatles,Yesterday - Remastered 2009,3BQHpFgAp4l80e1XslIjNI,1965-08-06,day,80
+123,Justin Bieber,STAY (with Justin Bieber),567e29TDzLwZwfDuEpGTwo,2021-07-27,day,85
+124,Justin Bieber,Ghost,6I3mqTwhRpn34SLVafSH7G,2021-03-19,day,89
+125,Justin Bieber,Mistletoe,7xapw9Oy21WpfEcib2ErSA,2011-01-01,day,89
+126,RAYE,Prada,59NraMJsLaMCVtwXTSia8i,2023-08-11,day,94
+127,RAYE,Escapism.,5mHdCZtVyb4DcJw8799hZp,2023-02-03,day,86
+128,RAYE,Escapism. - Sped Up,3XCpS4k8WqNnCpcDOSRRuz,2022-12-07,day,79
+129,Lady Gaga,Poker Face,1QV6tiMFM6fSOKOGLMHYYg,2008-01-01,day,84
+130,Lady Gaga,Shallow,2VxeLyX666F8uXCJ0dZF8B,2018-10-05,day,86
+131,Lady Gaga,Bad Romance,0SiywuOBRcynK0uKGWdCnn,2009-11-05,day,87
+132,Elton John,Cold Heart - PNAU Remix,6JIC3hbC28JZKZ8AlAqX8h,2021-10-22,day,84
+133,Elton John,I'm Still Standing,1jDJFeK9x3OZboIAHsY9k2,1983-05-30,day,87
+134,Elton John,Merry Christmas,3bH2Eu9A9ymI4UnGHRmoXg,2021-12-03,day,86
+135,Queen,Don't Stop Me Now - Remastered 2011,5T8EDUDqKcs6OSOwEsfqG7,1978-11-10,day,86
+136,Queen,Bohemian Rhapsody - Remastered 2011,4u7EnebtmKWzUH433cf5Qv,1975-11-21,day,84
+137,Queen,Another One Bites The Dust - Remastered 2011,5vdp5UmvTsnMEMESIF2Ym7,1980-06-27,day,85
+138,Nicki Minaj,FTCU,1a73gcEg6h6Re6hHXoVltJ,2023-12-08,day,90
+139,Nicki Minaj,Everybody (feat. Lil Uzi Vert),5ZJGv7aGdIr9IGpxzSG18T,2023-12-08,day,88
+140,Nicki Minaj,Beauty And A Beat,2S5NuP68ckFRvC0qMd7dVR,2020-05-22,day,65
+141,Bruno Mars,Locked out of Heaven,3w3y8KPTfNeOKPiqUTakBh,2012-12-07,day,91
+142,Bruno Mars,Just the Way You Are,47Slg6LuqLaX0VodpSCvPt,2010-10-05,day,83
+143,Bruno Mars,When I Was Your Man,0nJW01T7XtvILxQgC5J7Wh,2012-12-07,day,90
+144,P!nk,Just Give Me a Reason (feat. Nate Ruess),1mKXFLRA179hdOWQBwUk9e,2012-09-18,day,85
+145,P!nk,Raise Your Glass,1gv4xPanImH17bKZ9rOveR,2010-10-05,day,81
+146,P!nk,TRUSTFALL,1gUwi1o1S9W9P0FQgJdY8s,2023-02-17,day,75
+147,Imagine Dragons,Demons,5qaEfEh1AtSdrdrByCP7qR,2012-09-04,day,88
+148,Imagine Dragons,Believer,0pqnGHJpmpxLKifKRmU6WP,2017-06-23,day,90
+149,Imagine Dragons,Bones,54ipXppHLA8U4yqpOFTUhr,2022-07-01,day,87
+150,Mrs. GREEN APPLE,ケセラセラ,0teqQ0PYqVDyyXJuPOyMhu,2023-07-04,day,77
+151,Mrs. GREEN APPLE,ダンスホール,5LkmpgQYtwHtuvASgnLBe1,2023-12-01,day,52
+152,Mrs. GREEN APPLE,インフェルノ,2vOAHp8PBBFYqvQUWSoITY,2019-10-01,day,75
+153,Vaundy,Kaiju no Hanauta,1pCcNaCodPssCc8Aq68gPS,2020-05-27,day,60
+154,Vaundy,踊り子,1YXot2MLAG9sttepCtBRM7,2023-11-15,day,75
+155,Vaundy,Fukakoryoku,6WT1tWfxUQREmEwzc4TRMV,2020-05-27,day,58
+156,YOASOBI,アイドル,1hAloWiinXLPQUJxrJReb1,2023-10-04,day,80
+157,YOASOBI,勇者,0YTM7bCx451c6LQbkddy4Q,2023-10-04,day,77
+158,YOASOBI,夜に駆ける,6MCjmGYlw6mQVWRFVgBRvB,2021-01-06,day,77
+159,back number,水平線,3RvdkNMcSy71m0aT6UF9Uf,2023-01-17,day,74
+160,back number,HAPPY BIRTHDAY,4FMz2RFrbDGzJO7K4D0vS3,2019-03-27,day,75
+161,back number,アイラブユー,34ayWAUrQcrjlKZOJAzqke,2023-01-17,day,73
+162,OFFICIAL HIGE DANDISM,Subtitle,4zrKPIygugUDKGFEjVwpSB,2022-10-12,day,60
+163,OFFICIAL HIGE DANDISM,SOULSOUP,1JrxwbZ9u0VNwemdcJwZNi,2023-12-13,day,62
+164,OFFICIAL HIGE DANDISM,Tattoo,6wffxmLgeZTbvS1hYvLkht,2023-04-21,day,59
+165,BTS,Left and Right (Feat. Jung Kook of BTS),5Odq8ohlgIbQKMZivbWkEo,2022-10-06,day,83
+166,BTS,My Universe,46HNZY1i7O6jwTA7Slo2PI,2021-10-15,day,80
+167,BTS,Dynamite,5QDLhrAOJJdNAmCTJ8xMyW,2020-11-20,day,83
+168,Yuuri,ベテルギウス,4JK1kDUdH9RTBQrrSO1QfR,2022-01-12,day,75
+169,Yuuri,ビリミリオン,7M0dIdZWN1FDcveRdoOzbZ,2023-03-29,day,75
+170,Yuuri,ドライフラワー,4kPlQKwtPrnqLgrmmKFSlA,2022-01-12,day,74
+171,Kenshi Yonezu,KICK BACK,3khEEPRyBeOUabbmOPJzAG,2022-10-12,day,81
+172,Kenshi Yonezu,地球儀 - Spinning Globe,6x7SB38tuekpu4xpH9OIPY,2023-07-17,day,74
+173,Kenshi Yonezu,Lemon,04TshWXkhV1qkqHzf31Hn6,2020-08-05,day,72
+174,Aimyon,Marigold,5NqGfELjcdvRIUuhgZJ34W,2019-02-13,day,58
+175,Aimyon,ai no hana,2piySGAWgVwsRKm60SfOmF,2023-04-05,day,50
+176,Aimyon,君はロックを聴かない,59eluCMn0XbOWqeWQ91FTM,2017-09-12,day,71
+177,Ado,Show,1rDgAHDX95RmylxjgVW9tN,2023-09-06,day,75
+178,Ado,New Genesis,6A8NfypDHuwiLWbo4a1yca,2022-08-10,day,70
+179,Ado,Usseewa,61KYsWS25JXUO4fGb1138X,2022-01-26,day,71
+180,TWICE,The Feels,308Ir17KlNdlrbVLHWhlLe,2021-11-12,day,77
+181,TWICE,MOONLIGHT SUNRISE,5IN9W6eUfk3014My9awagX,2023-03-10,day,73
+182,TWICE,What is Love,3zhbXKFjUDw40pTYyCgt1Y,2018-07-09,day,77
+183,RADWIMPS,Suzume,1n1y2kFPISpF9WGD3JaFo5,2022-11-10,day,70
+184,RADWIMPS,Dream lantern,5mEqD00bdFcsiVd0MfvEeF,2016-08-24,day,68
+185,RADWIMPS,Sparkle - movie ver.,3A4FRzgve9BjfKbvVXRIFO,2016-08-24,day,69
+186,King Gnu,SPECIALZ,0GWNtMohuYUEHVZ40tcnHF,2023-09-01,day,87
+187,King Gnu,カメレオン,0J0P8iSE6l3pYHbUdNFYdS,2022-02-28,day,76
+188,King Gnu,一途,7ncPjJBktLEOpstY5JOUMK,2021-12-10,day,74
+189,NewJeans,Super Shy,5sdQOyqq2IDhvmx2lHOpwd,2023-07-07,day,90
+190,NewJeans,OMG,65FftemJ1DbbZ45DUfHJXE,2023-01-02,day,87
+191,NewJeans,Ditto,3r8RuvgbX9s7ammBn07D3W,2022-12-19,day,86
+192,Macaroni Empitsu,なんでもないよ、,5W7Y92LB4jWvu9NeEQ0GZl,2022-01-12,day,74
+193,Macaroni Empitsu,リンジュー・ラヴ,5N19AxnqLwLyi4DSgiJ0qV,2023-08-30,day,66
+194,Macaroni Empitsu,恋人ごっこ,2SihT7AVMiI2VtaAyVIcnO,2020-04-01,day,68
+195,ヨルシカ,ただ君に晴れ,3wJHCry960drNlAUGrJLmz,2018-05-09,day,77
+196,ヨルシカ,晴る,5eY7692tmgHB9dbmq6wa2M,2024-01-05,day,74
+197,ヨルシカ,だから僕は音楽を辞めた,5j7ixaLeGTGSv4DzKs0pCM,2019-04-10,day,73
+198,Fujii Kaze,Shinunoga E-Wa,0o9zmvc5f3EFApU52PPIyW,2020-05-20,day,82
+199,Fujii Kaze,Hana,02tNuntKQsoou5T4O8meyh,2023-10-12,day,66
+200,Fujii Kaze,Matsuri,7AMGgAPFczs3wJgMqu6Eqi,2022-03-23,day,72
+201,SPITZ,美しい鰭,1H3qOzheTPhE7aVvJOWfvA,2023-05-17,day,74
+202,SPITZ,チェリー,1ihCiJaXRl4f6Sy4LJov5z,1996,year,68
+203,SPITZ,ロビンソン,0sVnyL71jTOuMt9TZ59bws,1995,year,66
+204,Stray Kids,LALALALA,1OG1NoKpZZLrMqMYCk9m84,2023-11-10,day,87
+205,Stray Kids,S-Class,3gTQwwDNJ42CCLo3Sf4JDd,2023-06-02,day,81
+206,Stray Kids,MEGAVERSE,5Q1tv4GTxP3IJeGMOKdrFO,2023-11-10,day,81
+207,Saucy Dog,Cinderella Boy,4UALTBWz0OdQcjbTsjFceV,2021-08-25,day,52
+208,Saucy Dog,Itsuka,37ZddqLVyF23NIg5I17SBd,2017-05-24,day,46
+209,Saucy Dog,Yui,3f8WNy5rgXq7J74qjExRkb,2020-09-02,day,39
+210,SEVENTEEN,Super,3AOf6YEpxQ894FmrwI9k96,2023-04-24,day,82
+211,SEVENTEEN,God of Music,4MTNimMDRyFZv37Thcktwa,2023-10-23,day,80
+212,SEVENTEEN,HOT,6I2tqFhk8tq69iursYxuxd,2022-05-27,day,77
+213,ONE OK ROCK,Wherever you are,0YAMQSmHk6BSUGTYpaoqTJ,2010-06-09,day,66
+214,ONE OK ROCK,Make It Out Alive,4WVJeRP6hjMMBkmWsV4TtF,2023-08-24,day,69
+215,ONE OK ROCK,Stand Out Fit In,4zXRMjTaeflesB3Ih4eHnJ,2019-02-15,day,65
+216,HIRAIDAI,"Stand by me, Stand by you.",7DyS11kB1YNrfDzQqtjmTh,2021-02-10,day,67
+217,HIRAIDAI,Buddy,1GlT0DZKjapYwJzRcdBh4F,2022-05-09,day,62
+218,HIRAIDAI,題名のない今日,6skNbV22epX2yHu4O2hYSx,2021-02-10,day,63
+219,SOUTHERN ALL STARS,Relay~Mori no Uta,2flCpqsq9WAwFTjrtWtYBc,2023-09-18,day,30
+220,SOUTHERN ALL STARS,Bongiri koiuta,0POtzhZLoUX2bsFatFD4rD,2023-07-17,day,29
+221,SOUTHERN ALL STARS,Utae Nippon no Sora,1gDOmbdOhMADkmNSU9eUMb,2023-08-02,day,23
+222,Mr.Children,HANABI,0AU7xhipAm9Saq0k8A9Iua,2008-12-10,day,65
+223,Mr.Children,Tomorrow never knows,2CbDcSVFCbMSfLMoZiAFYN,1994-11-10,day,64
+224,Mr.Children,名もなき詩,60ba7YZ3yqbCDGAkPNXzBh,1996-06-24,day,62
+225,SEKAI NO OWARI,最高到達点,2hXPmiqKdXcbV0L1VKnTDN,2023-09-17,day,78
+226,SEKAI NO OWARI,Habit,2uMNMcjjUz8oNIxjIu20qE,2022-04-28,day,69
+227,SEKAI NO OWARI,Dragon Night,4XdzCpY4Ekv5SezuuFpBDG,2015-01-14,day,67
+228,Tani Yuuki,W / X / Y,3cBghvTcQNDNkW98Y4eGaP,2021-12-08,day,58
+229,Tani Yuuki,Mouichido,40gt89icqkSFqWWfMlqagb,2022-09-21,day,46
+230,Tani Yuuki,Okaeri,0aLfQ35218wQrfCwNr0woA,2021-12-08,day,36
+231,ARASHI,Love So Sweet,0cdyZ4VMs900wQLHRIyy97,2007-07-11,day,42
+232,ARASHI,Happiness,3MiKEHatYtQrE0QSCdVRF0,2008-04-23,day,37
+233,ARASHI,One Love,7eYJMiwmWFwVMbx2G39GgC,2021-07-16,day,36
+234,BE:FIRST,Mainstream,6twDMJoG8tzwL21LQ3EEtA,2023-09-13,day,72
+235,BE:FIRST,Boom Boom Back,37xJCjdzJ17S1jCDz3GwsB,2023-02-13,day,71
+236,BE:FIRST,Glorious,2P7T4KMNrQ7mLXERZHhWYE,2023-11-06,day,69
+237,Hikaru Utada,First Love,39HrUxcvKF3jtLz7fUDWXc,1999-03-10,day,73
+238,Hikaru Utada,One Last Kiss,6DaKMsQDmHMJbKYyU7AUFA,2022-01-19,day,62
+239,Hikaru Utada,道,4nYtqZDscX8TLvR4p0ON1s,2016-09-28,day,67
+240,Creep Hyp,栞,2Bsg6EfrmEx0x0eC8v4vuG,2018-09-26,day,63
+241,Creep Hyp,He Is Mine,0bQcCm1gmBavM1NYBxPvbe,2010-09-08,day,38
+242,Creep Hyp,キケンナアソビ,2XvtKqNuL8vCkekyzmb8OJ,2021-12-08,day,59
+243,B'z,イチブトゼンブ,3IYcbagYZ9z1Svaw8B33Pd,2009-11-18,day,61
+244,B'z,ultra soul,4zz5dSunCrg0pmNT4ZzBf5,2005-11-30,day,57
+245,B'z,いつかのメリークリスマス,3Ro8jrbsWu0VSk1odLLYuo,1992-12-09,day,60
+246,LE SSERAFIM,Perfect Night,74X2u8JMVooG2QbjRxXwR8,2023-10-27,day,91
+247,LE SSERAFIM,ANTIFRAGILE,0bMoNdAnxNR0OuQbGDovrr,2023-05-01,day,80
+248,LE SSERAFIM,UNFORGIVEN (feat. Nile Rodgers),51vRumtqbkNW9wrKfESwfu,2023-05-01,day,82
+249,Aimer,残響散歌,2cErTn7DU75ZILisPP34TB,2023-07-26,day,67
+250,Aimer,カタオモイ,2HovXsvcdJur52BOcYGydz,2016-09-21,day,69
+251,Aimer,おもかげ (produced by Vaundy),6ts1KCOudfDYXYfyWtq0k1,2021-12-17,day,69
+252,IVE,I AM,70t7Q6AYG6ZgTYmJWcnkUM,2023-04-10,day,83
+253,IVE,Baddie,7uyeEbG6hyApgXuEypGcsZ,2023-10-13,day,81
+254,IVE,After LIKE,2gYj9lubBorOPIVWsTXugG,2022-08-22,day,80
+255,Nogizaka46,Monopoly,66jdKha03fC7OMdkGyQHDM,2023-12-06,day,54
+256,Nogizaka46,おひとりさま天国,2JAwscGWJvCSK0HnES066Z,2023-08-16,day,55
+257,Nogizaka46,月の大きさ,4bY2oZGA5Br3pTE1Jd1IfY,2013-11-27,day,58
+258,BLACKPINK,How You Like That,4SFknyjLcyTLJFPKD2m96o,2020-10-02,day,88
+259,BLACKPINK,Shut Down,7gRFDGEzF9UkBV233yv2dc,2022-09-15,day,76
+260,BLACKPINK,Pink Venom,5zwwW9Oq7ubSxoCGyW1nbY,2022-09-15,day,76
+261,milet,絆ノ奇跡,2VBLFxCUyFp5BfmsZpxcis,2023-04-10,day,76
+262,milet,Anytime Anywhere,7FeEiAWqWScpMFnlLSUvX2,2023-09-29,day,69
+263,milet,おもかげ (produced by Vaundy),6ts1KCOudfDYXYfyWtq0k1,2021-12-17,day,69
+264,Jung Kook,Seven (feat. Latto) (Explicit Ver.),2HRgqmZQC0MC7GeNuDIXHN,2023-11-03,day,91
+265,Jung Kook,Standing Next to You,2KslE17cAJNHTsI2MI0jb2,2023-11-03,day,97
+266,Jung Kook,3D (feat. Jack Harlow),01qFKNWq73UfEslI0GvumE,2023-10-02,day,86
+267,The Kid LAROI,STAY (with Justin Bieber),567e29TDzLwZwfDuEpGTwo,2021-07-27,day,85
+268,The Kid LAROI,TOO MUCH,100fbGocyqbBPQkTDchi2g,2023-11-10,day,76
+269,The Kid LAROI,BLEED,2m6HgwjakjAXimujX8m4sk,2023-11-10,day,76
+270,ZUTOMAYO,残機,2fJbss5uUmmBqn7qFkmyWj,2023-06-06,day,63
+271,ZUTOMAYO,秒針を噛む,4HgsPAX3MmMgIT60hJ4W4U,2019-10-29,day,65
+272,ZUTOMAYO,あいつら全員同窓会,7rzoBRR4LbJZH5t7Q6qeTn,2023-06-06,day,61
+273,BUMP OF CHICKEN,SOUVENIR,7qOsSOpiL3R8RKyiBtIYNQ,2022-09-29,day,69
+274,BUMP OF CHICKEN,Sleep Walking Orchestra,0vMBqdJIkmflvFk728hKH7,2023-12-11,day,67
+275,BUMP OF CHICKEN,天体観測,3hRRYgBeunE3PTmnzATTS0,2002-02-20,day,64
+276,Lilas Ikuta,スパークル,3MR8qQiK1Bydhw9WjAzwzU,2023-03-08,day,66
+277,Lilas Ikuta,おもかげ (produced by Vaundy),6ts1KCOudfDYXYfyWtq0k1,2021-12-17,day,69
+278,Lilas Ikuta,ばかまじめ,7FiTlLKW0Knj8rm7lMa9N7,2022-09-07,day,64
+279,Novelbright,愛とか恋とか,1VHL1PIkhDwWbFc65xHwOr,2022-05-16,day,70
+280,Novelbright,Walking with you,7tGDXCPLpAScEwmqab9YZd,2018-10-03,day,70
+281,Novelbright,ツキミソウ,6sElEqOIGENWjpxGFeo5ct,2021-04-26,day,65
+282,DREAMS COME TRUE,何度でも,6Qq8UOS6QzeSYFUVXC5wEB,2005-01-01,day,66
+283,DREAMS COME TRUE,LOVE LOVE LOVE,1tcEqPHAQCOKIHwUMQ2POT,1995-07-24,day,43
+284,DREAMS COME TRUE,やさしいキスをして,1jv8fStBVa5PTklNdKltXl,2004-01-01,day,38
+285,Ryokuoushoku Shakai,花になって - Be a flower,2EmkTBTh964LQen4Vz0svg,2023-10-29,day,80
+286,Ryokuoushoku Shakai,Mela!,6IO5nn84TKArsi3cjpIqaD,2020-04-13,day,71
+287,Ryokuoushoku Shakai,サマータイムシンデレラ,6SwATVDZUy3jha72jDyxe2,2023-07-24,day,70
+288,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),5Odq8ohlgIbQKMZivbWkEo,2022-10-06,day,83
+289,Charlie Puth,Attention,5cF0dROlMOK5uNZtivgu50,2018-05-11,day,86
+290,Charlie Puth,See You Again (feat. Charlie Puth),2JzZzZUQj3Qff7wapcbKjc,2015,year,85
+291,GReeeeN,キセキ,7ztdl6cnbJgHRdMkKldkts,2008-01-01,day,65
+292,GReeeeN,愛唄,7iXHLtPosbHvglVSJ4rxLq,2007-01-01,day,66
+293,GReeeeN,道,54HMpdV2FTXgcI0dkDzMc8,2007-01-01,day,61
+294,Bad Bunny,PERRO NEGRO,7iQXYTyuG13aoeHxGG28Nh,2023-10-13,day,96
+295,Bad Bunny,MONACO,4MjDJD8cW7iVeWInc2Bdyj,2023-10-13,day,94
+296,Bad Bunny,un x100to,2yzshFeBIwH8tWIqHEFLeD,2023-08-25,day,87
+297,Feid,PERRO NEGRO,7iQXYTyuG13aoeHxGG28Nh,2023-10-13,day,96
+298,Feid,LUNA,7bywjHOc0wSjGGbj04XbVi,2023-12-01,day,95
+299,Feid,CLASSY 101,1hZsWUnLbqRw09jLAMQSsb,2023-12-01,day,85
+300,KAROL G,QLONA,5RqSsdzTNPX1uzkmlHCFvK,2023-08-10,day,93
+301,KAROL G,AMARGURA,505v13epFXodT9fVAJ6h8k,2023-02-24,day,90
+302,KAROL G,MI EX TENÍA RAZÓN,54zcJnb3tp9c5OVKREZ1Is,2023-08-10,day,88
+303,Rauw Alejandro,DILUVIO,2kz1YOhJiNubjigR1gB1VX,2023-07-07,day,91
+304,Rauw Alejandro,BESO,609E1JCInJncactoMmkDon,2023-03-24,day,86
+305,Rauw Alejandro,BABY HELLO,21N77gfWYoQDvrLvaeiQgi,2023-07-07,day,78
+306,Anuel AA,OA,6gMj2DzKR2PjrrbNSwcGFR,2023-10-13,day,87
+307,Anuel AA,Luces Tenues,15GcuHNJMf7LqwpU3N4Puw,2023-12-22,day,85
+308,Anuel AA,Amanece,1LiN0Z98FkR1t0m8KmLcAH,2018-12-14,day,84
+309,Myke Towers,LALA,7ABLbnD53cQK00mhcaOUVG,2023-03-23,day,94
+310,Myke Towers,LA FALDA,7iUtQNMRB8ZkKC4AmEuCJC,2023-11-23,day,89
+311,Myke Towers,El Cielo,4PA1wK0leCjmRZlP5dQ8Lv,2023-06-02,day,86
+312,Shakira,TQG,0DWdj2oZMBFSzRsi2Cvfzf,2023-02-24,day,89
+313,Shakira,Hips Don't Lie (feat. Wyclef Jean),3ZFTkvIE7kyPt6Nu3PEa7V,2005-11-28,day,87
+314,Shakira,"Shakira: Bzrp Music Sessions, Vol. 53",4nrPB8O7Y7wsOCJdgXkthe,2023-01-11,day,86
+315,Ozuna,Hey Mor,1zsPaEkglFvxjAhrM8yhpr,2022-10-07,day,87
+316,Ozuna,Diles,6C1RD7YQVvt3YQj0CmuTeu,2016-08-26,day,82
+317,Ozuna,Pa Ti Estoy,3j5zNcb0aSk7dx3W3mAKzw,2023-11-17,day,81
+318,Daddy Yankee,Gasolina,228BxWXUYQPJrJYHDLOHkj,2004-07-13,day,85
+319,Daddy Yankee,La Santa,69vlMrzHwATKzupwNcUPyK,2020-02-29,day,82
+320,Daddy Yankee,"Lo Que Pasó, Pasó",26QKsGW4hMuwiEE1ftUMHe,2004-07-13,day,82
+321,Morat,No Se Va,4khWEpnaijN0G1x019Uzdr,2018-10-25,day,82
+322,Morat,Cuando Nadie Ve,71iAechwVKGu26pahzFL0k,2018-10-25,day,81
+323,Morat,Besos En Guerra,1mlGScrDQqHqmhdIqE8MmA,2018-10-25,day,80
+324,Bizarrap,"Young Miko: Bzrp Music Sessions, Vol. 58",6VciS3dRMpZhJiDxT8ArFi,2024-01-10,day,90
+325,Bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52",2tTmW7RDtMQtBk7m2rYeSw,2022-07-06,day,88
+326,Bizarrap,Fruto,4SW9gHnW8NfKOdqmh0ij45,2023-10-04,day,86
+327,J Balvin,LA CANCIÓN,0fea68AdmYNygeTGI4RC18,2019-06-28,day,86
+328,J Balvin,No Me Conoce - Remix,2beS6dD5rovBxSA1zYoSHR,2019-05-24,day,84
+329,J Balvin,UN PESO,7hynhxDoDpgMIV12JuVtNa,2019-06-28,day,81
+330,Quevedo,Columbia,6XbtvPmIpyCbjuT0e8cQtp,2023-07-07,day,93
+331,Quevedo,"Quevedo: Bzrp Music Sessions, Vol. 52",2tTmW7RDtMQtBk7m2rYeSw,2022-07-06,day,88
+332,Quevedo,OA,6gMj2DzKR2PjrrbNSwcGFR,2023-10-13,day,87
+333,Duki,Los del Espacio,1Hs1uUl8o2VtDp1DABFq0O,2023-06-01,day,86
+334,Duki,Marisola - Remix,0NO2zL0kw8sGGnaMvHKAZF,2022-12-15,day,79
+335,Duki,She Don't Give a Fo,03a359wbiUsjN9h6yzXvmS,2018-03-12,day,79
+336,Grupo 5,Amor Vuelve - (En Vivo),29QkpKsdxiChq3xsmu5VDG,2023-05-26,day,63
+337,Grupo 5,Motor Y Motivo,2yjHvbMtfyoXXJYpsR3rYP,2005-01-31,day,65
+338,Grupo 5,El Ritmo de Mi Corazón,3SQRqRJ4xl2FZ8B5eswvvU,2020-08-07,day,63
+339,Mora,LA INOCENTE,5jt25aFjW2kNoBqaEVaz5W,2022-04-01,day,87
+340,Mora,REINA,0QRHOAeU8JRaVVn3UoZBih,2023-08-28,day,85
+341,Mora,HIBIKI,4qSEvFGCpde73gqIuq3sho,2023-10-13,day,85
+342,Maluma,Según Quién,4bw8mcDUSRWfQo63ZTYRnU,2023-08-25,day,91
+343,Maluma,OA,6gMj2DzKR2PjrrbNSwcGFR,2023-10-13,day,87
+344,Maluma,COCO LOCO,0XjX9s0XWOKZc8PLuW02wJ,2023-08-25,day,74
+345,Marshmello,HARLEY QUINN,6CvTEtGagmzQvkUzzyKR9k,2023-10-20,day,95
+346,Marshmello,Happier,7BqHUALzNBTanL6OvsqmC1,2018-08-17,day,87
+347,Marshmello,El Merengue,5KbBVSj6AJZ5662fO8EYFh,2023-11-03,day,78
+348,Eladio Carrion,Coco Chanel,0PB0O24JqAuNdOAFVJljMS,2023-03-17,day,84
+349,Eladio Carrion,THUNDER Y LIGHTNING,4pcafPzLDSqQktqSpxHL3E,2023-10-13,day,81
+350,Eladio Carrion,TQMQA,6FvMc0dfKvSbzFmqfT1GoG,2023-12-14,day,80
+351,Sebastian Yatra,VAGABUNDO,1MB8kTH7VKvAMfL9SHgJmG,2023-05-12,day,86
+352,Sebastian Yatra,Tacones Rojos,6ylDpki1VpIsc525KC1ojF,2022-01-28,day,78
+353,Sebastian Yatra,Pareja Del Año,655JkvIwu2rDCaD1hPf04g,2022-01-28,day,78
+354,Rels B,Por Dentro,671fHUAB2n0MocazS1bMB8,2023-11-23,day,86
+355,Rels B,cómo dormiste?,3fjN3y5x4hN53rykAN2LHQ,2022-08-04,day,84
+356,Rels B,A Mí,7MmrcXVA7A5zZ2CbDuGHNa,2019-02-21,day,84
+357,Jhayco,Holanda,6irysuQyZWd7Bjj7ePiOs2,2023-07-28,day,87
+358,Jhayco,DÁKITI,4MzXwWMhyBbmu6hOcLVD49,2020-11-27,day,79
+359,Jhayco,No Me Conoce - Remix,2beS6dD5rovBxSA1zYoSHR,2019-05-24,day,84
+360,Maria Becerra,Los del Espacio,1Hs1uUl8o2VtDp1DABFq0O,2023-06-01,day,86
+361,Maria Becerra,CORAZÓN VACÍO,3oNnzH6hmqIGIhJ1NcHlrh,2023-06-22,day,83
+362,Maria Becerra,El Amor de Mi Vida,1zgTTXWby9R40Gj9rHgH8e,2023-08-17,day,83
+363,Eslabon Armado,Ella Baila Sola,3qQbCzHBycnDpGskqOWY0E,2023-04-28,day,86
+364,Eslabon Armado,Jugaste y Sufrí,3NqBxTOMCJ3zW9CIP51td4,2020-12-18,day,79
+365,Eslabon Armado,Así Lo Quiso Dios,6X5WZbJzXtk6aO03HlxuZ9,2023-04-28,day,78
+366,Taiu,Rara Vez,7MVIfkyzuUmQ716j8U7yGR,2023-02-08,day,87
+367,Taiu,Mamichula - con Nicki Nicole,0TUW9faHNaBmi89wsYGp9y,2020-07-23,day,81
+368,Taiu,Imposible,0et5kHSyE7vNPbysINU6vy,2023-09-01,day,50
+369,Arcángel,ALV,32hCeeK3ayPux4UauNPsgA,2023-11-17,day,85
+370,Arcángel,La Jumpa,2mnXxnrX5vCGolNkaFvVeM,2022-12-01,day,80
+371,Arcángel,Tu No Vive Asi (feat. Mambo Kingz & DJ Luian),6NSMQFKgjpQb0KkjMDYIK0,2016-09-30,day,80
+372,Grupo Frontera,EL AMOR DE SU VIDA,0O3U5iwTbiXCREMkvotJuN,2023-08-25,day,91
+373,Grupo Frontera,un x100to,2yzshFeBIwH8tWIqHEFLeD,2023-08-25,day,87
+374,Grupo Frontera,QUE VUELVAS,5HR7yfhSCeoOHRQN05XnZQ,2023-08-25,day,85
+375,Paulo Londra,Nena Maldición (feat. Lenny Tavárez),77dMSg2VHi2wwXjXNrmcrZ,2019-05-23,day,79
+376,Paulo Londra,Tal Vez,5jW3rF4URMdK7tO2xjS5EI,2019-05-23,day,79
+377,Paulo Londra,Adan y Eva,132ALUzVLmqYB4UsBj5qD6,2019-05-23,day,77
+378,TINI,La_Original.mp3,6Es8Sk3xe1HiJ2MXCfHHwR,2023-11-03,day,84
+379,TINI,Cupido,04ndZkbKGthTgYSv3xS7en,2023-02-16,day,78
+380,TINI,Por el Resto de Tu Vida,40vzZFWG1h60TdZPuxuX3Y,2023-01-27,day,80
+381,Young Miko,CLASSY 101,1hZsWUnLbqRw09jLAMQSsb,2023-12-01,day,85
+382,Young Miko,"Young Miko: Bzrp Music Sessions, Vol. 58",6VciS3dRMpZhJiDxT8ArFi,2024-01-10,day,90
+383,Young Miko,FINA,3nNmRE0DxHC6ZaKkrpUumS,2023-10-13,day,88
+384,Big One,Un Finde | CROSSOVER #2,3tiJUOfAEqIrLFRQgGgdoY,2023-04-04,day,86
+385,Big One,Los del Espacio,1Hs1uUl8o2VtDp1DABFq0O,2023-06-01,day,86
+386,Big One,Mentiras | CROSSOVER #3,6Z28dALKtAgZ7AZRfjMQjY,2023-07-25,day,81
+387,Armonia 10,Serpiente,2OXYYCVlDZfiVtktj00ul5,2008-05-28,day,63
+388,Armonia 10,Dios Mio Has Que Me Enamore,5PV7NrmlRjK6aSRBZ0jMkQ,2001-11-01,day,61
+389,Armonia 10,Siempre Pierdo En El Amor,2Kd77oLlsoQawZSf9p8FGz,1996-01-01,day,60
+390,Agua Marina,Tu Amor Fue una Mentira,6BnqTZLQNh3bLSuGOHqLoa,1997-01-01,day,64
+391,Agua Marina,Así Es el Amor,1fVoqge1eN65jXbw9SfsXc,2001-01-01,day,59
+392,Agua Marina,Basta Ya Mi Amor,5JVXtZWMJctzAscZASJpa7,1996-10-01,day,59
+393,Sech,Volando - Remix,0G2zPzWqVjR68iNPmx2TBe,2021-07-08,day,79
+394,Sech,Ignorantes,38RIEav39FGi86jppxO0du,2020-02-29,day,73
+395,Sech,Porno,34ZngZgo8xicbt1EE8Ob8Z,2019-10-11,day,75
+396,Don Omar,Danza Kuduro,6DXLO8LndZMVOHM0wNbpzg,2010-01-01,day,78
+397,Don Omar,Dile,69Ej1xrGjOcHvIMtMKxK0G,2003-01-01,day,85
+398,Don Omar,Salió El Sol,48NXpYRuvv9izul4oXhqS9,2006-01-01,day,81
+399,Chencho Corleone,Me Porto Bonito,6Sq7ltF9Qa7SNFBsV5Cogx,2022-05-06,day,89
+400,Chencho Corleone,Corazón Roto pt. 3,3LzAFrnO7CxaeBgtQhHsAP,2023-09-08,day,84
+401,Chencho Corleone,Desesperados,6mmPpaltUZK7xjNlBPQQ0p,2021-12-10,day,81
+402,Reik,El Correcto,4tYgQrGwhpvjfq4ryajgUo,2023-10-20,day,81
+403,Reik,Yo Quisiera,2GSr8anleCXKLNjjjijoMZ,2005-03-02,day,78
+404,Reik,Ya Me Enteré,0lPXFrKyl8HkdQ2E6NmNja,2016-06-17,day,78
+405,Tiago PZK,Los del Espacio,1Hs1uUl8o2VtDp1DABFq0O,2023-06-01,day,86
+406,Tiago PZK,Una Foto Remix (feat. Emilia),1kqH58eGh2ZTOHwqBIB2tM,2024-01-05,day,85
+407,Tiago PZK,"Tiago PZK: Bzrp Music Sessions, Vol. 48",6VAS7m73rDopQe7BdrFMpD,2021-12-29,day,78
+408,Danny Ocean,Me Rehúso,6ifUES3keWjwXgae8pXI3o,2019-03-22,day,83
+409,Danny Ocean,Mónaco,3HgvO4B5LLmdPOT2d8cSZd,2021-05-28,day,81
+410,Danny Ocean,Fuera del mercado,1UdzJEpgJxtuXAlCOvD4S0,2022-02-17,day,81
+411,Yandel,Yandel 150,4FAKtPVycI4DxoOHC01YqD,2023-01-13,day,84
+412,Yandel,CORLEONE,4PxuQB2bwMFyP6qjHDBsmb,2023-12-22,day,70
+413,Yandel,Yankee 150,28BSTgZH1ckI8Xfy8LXaRz,2023-06-16,day,77
+414,Wisin & Yandel,Besos Moja2,6OzUIp8KjuwxJnCWkXp1uL,2022-12-01,day,80
+415,Wisin & Yandel,Noche De Sexo,4kAtRwNRLMKuoCbxMSxUGI,2005-01-01,day,77
+416,Wisin & Yandel,Noche De Entierro,6ksWMnPcHNyNoNf3y1BQCO,2006-09-25,day,76
+417,Piso 21,Déjala Que Vuelva (feat. Manuel Turizo),1j6xOGusnyXq3l6IryKF3G,2018-05-11,day,84
+418,Piso 21,Te Vi,059bcIhyc2SBwm6sw2AZzd,2018-12-14,day,81
+419,Piso 21,Pa' Olvidarme De Ella,3lR4O0vtkhCAvVEUEWUL0S,2021-03-18,day,78
+420,Luis Miguel,Ahora Te Puedes Marchar,1uKjQoh8JZj9ryuYRhpd7E,1987-07-15,day,82
+421,Luis Miguel,La Incondicional,6F9yAYUaNbUhdlQyt5uZ3b,1988-11-25,day,80
+422,Luis Miguel,La Media Vuelta,1lKI9y1DL6QnYTZguVmACX,1994-08-30,day,80
+423,Camilo,Ni Me Debes Ni Te Debo,3Zin1vaMx7PjFWIOBTE4FM,2023-05-19,day,81
+424,Camilo,La Mitad,63Zaf8Rci6eOUPqDQ4fUFx,2020-04-17,day,77
+425,Camilo,Vida de Rico,4nTduFjaTmGysc9WKNuCcs,2021-03-04,day,73
+426,Nicki Nicole,Una Foto Remix (feat. Emilia),1kqH58eGh2ZTOHwqBIB2tM,2024-01-05,day,85
+427,Nicki Nicole,X ESO BB,3nr6dW6yGOd6UX3KOpkbMZ,2023-08-10,day,82
+428,Nicki Nicole,DISPARA ***,6r0TaoZh1Oc1KkuL4rC1kB,2023-05-18,day,79
+429,Morgan Wallen,Last Night,7K3BhSpAxZBznislvUMVtn,2023-03-03,day,86
+430,Morgan Wallen,Thinkin’ Bout Me,0PAcdVzhPO4gq1Iym9ESnK,2023-03-03,day,87
+431,Morgan Wallen,You Proof,5W4kiM2cUYBJXKRudNyxjW,2023-03-03,day,84
+432,Luke Combs,Fast Car,1Lo0QY9cvc8sUB2vnIOxDT,2023-03-24,day,88
+433,Luke Combs,The Kind of Love We Make,48UKTR66uUOT9LaUvooTNx,2022-06-24,day,82
+434,Luke Combs,Beautiful Crazy,2rxQMGVafnNaRaXlRMWPde,2018-06-01,day,83
+435,Zach Bryan,I Remember Everything (feat. Kacey Musgraves),4KULAymBBJcPRpk1yO4dOG,2023-08-25,day,93
+436,Zach Bryan,Something in the Orange,3WMj8moIAXJhHsyLaqIIHI,2022-04-22,day,91
+437,Zach Bryan,Heading South,2Dct3GykKZ58hpWRFfe2Qd,2019-09-30,day,86
+438,The Chainsmokers,Something Just Like This,6RUKPb4LETWmmr3iAEQktW,2017-04-07,day,88
+439,The Chainsmokers,Closer,7BKLCZ1jbUBVqRi2FVlTVw,2016-07-29,day,86
+440,The Chainsmokers,Jungle,0OvO2X2Q3i98dc5RcgEN3x,2023-09-22,day,83
+441,The Wiggles,Hot Potato,0TQp3SpfrkWtGCyJJgMbHW,1994-03-12,day,66
+442,The Wiggles,Rock-a-Bye Your Bear,5V0hwPnZnYroTZN7ZhZE2J,2013-02-01,day,65
+443,The Wiggles,"Head, Shoulders, Knees and Toes",7toZuecF36JJeBq1faE2Xt,2017-02-17,day,63
+444,Sam Smith,Unholy (feat. Kim Petras),0NZPBYD5qbEWRs3PrGiRkT,2023-01-27,day,82
+445,Sam Smith,Too Good At Goodbyes,1mXVgsBdtIVeCLJnSnmtdV,2017-11-03,day,87
+446,Sam Smith,Stay With Me,5Nm9ERjJZ5oyfXZTECKmRt,2014-05-26,day,87
+447,XXXTENTACION,Revenge,5TXDeTFVRVY7Cvt0Dw4vWW,2017-08-25,day,88
+448,XXXTENTACION,Hope,2ZRo7axmMPeSVUvDbGkJah,2018-03-16,day,86
+449,XXXTENTACION,Fuck Love,7AQim7LbvFVZJE3O8TYgf2,2017-08-25,day,86
+450,Frank Ocean,Pink + White,3xKsf9qdS1CyvXSMEid6g8,2016-08-20,day,91
+451,Frank Ocean,Thinkin Bout You,7DfFc7a6Rwfi3YQMRbDMau,2012-07-10,day,86
+452,Frank Ocean,Lost,3GZD6HmiNUhxXYf8Gch723,2012-07-10,day,86
+453,Kabza De Small,"Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",6Kijtp0DB6VwcoJIw7PJ9W,2023-10-27,day,73
+454,Kabza De Small,"Nana Thula (feat. Njelic, Young Stunna, Nkosazana Daughter & Xolani Guitar)",7ko9EAsZ2N1ZpEBlMUkR3J,2023-05-19,day,61
+455,Kabza De Small,Abalele,2qxgejJTaZIHNSHDD22Uhl,2021-09-17,day,60
+456,DJ Maphorisa,"Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",6Kijtp0DB6VwcoJIw7PJ9W,2023-10-27,day,73
+457,DJ Maphorisa,Particula,2dIiGOrFEcADygUXWSsbzb,2017-11-17,day,50
+458,DJ Maphorisa,"Nana Thula (feat. Njelic, Young Stunna, Nkosazana Daughter & Xolani Guitar)",7ko9EAsZ2N1ZpEBlMUkR3J,2023-05-19,day,61
+459,Sjava,Uthando,7ssA6kQHkrNSNx4ZLiTV8V,2023-12-08,day,60
+460,Sjava,Umbayimbayi,1bmZLmDu9jkzwHInzPsYLD,2023-05-12,day,54
+461,Sjava,Sayona,05A1KzxTLvShctiD0Bsydd,2023-05-12,day,55
+462,Kelvin Momo,Amalobolo,6SYd9stPpCzbuLAeU3FR9K,2023-12-08,day,66
+463,Kelvin Momo,"Maye Maye (feat. Azana, Stixx)",710qLZ4WOxBj7ZaVbVJtkh,2023-12-01,day,60
+464,Kelvin Momo,Uthando,7ssA6kQHkrNSNx4ZLiTV8V,2023-12-08,day,60
+465,Mellow & Sleazy,Imnandi lento (feat. Tman Xpress),3oPYVnm0LsmAQ4RobrRS29,2023-12-15,day,50
+466,Mellow & Sleazy,Wang Compromisa (feat. Focalistic & Makhekhe Jr),7wyxymLTOjYzcMfqd9jTDV,2023-12-15,day,60
+467,Mellow & Sleazy,Wena Wa Pallwa (feat. Ch'cco & LeeMcKrazy),5O677N09WkpiDFluKb1fXh,2023-07-14,day,60
+468,Nasty C,Particula,2dIiGOrFEcADygUXWSsbzb,2017-11-17,day,50
+469,Nasty C,Said,0AWnrLw8H8wE6edp5Z2ibI,2017-09-08,day,56
+470,Nasty C,No More,4GVQOvxTqXPLJ1rHvP0SwZ,2023-09-15,day,51
+471,AKA,Lemons (Lemonade),2THbHmoRIjbGQgP0HylMbx,2023-02-24,day,53
+472,AKA,"All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",6oAWlzrEbXFis7Z0kyeX0h,2014-07-07,day,53
+473,AKA,Company (Remix),0608p0wvaTJbwD76vMF0Jh,2023-12-08,day,52
+474,Summer Walker,Girls Need Love (with Drake) - Remix,14SaZBTjxlorHJQxXh01Hu,2018-10-19,day,83
+475,Summer Walker,prove it,5wttBUDyaHAR5q9fYnN3YF,2024-01-12,day,82
+476,Summer Walker,Playing Games (with Bryson Tiller) - Extended Version,2xyx0o4xNOLLjBSbOOdcbA,2019-10-04,day,80
+477,Tyler ICU,"Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",5tpft20jhQvRlG3O7XfwWy,2023-04-28,day,74
+478,Tyler ICU,Dalie (feat. Baby S.O.N),4URabg9AGHasjFEVdTbWcC,2023-10-11,day,73
+479,Tyler ICU,"Mnike (Radio Edit) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",5OnDiLZlKXnBlBk2nCC9xE,2023-06-02,day,58
+480,Brent Faiyaz,Clouded,2J6OF7CkpdQGSfm1wdclqn,2020-02-07,day,86
+481,Brent Faiyaz,Poison,5NijSs5dAwaIybq1GaRTIe,2016-08-03,day,84
+482,Brent Faiyaz,Trust,0oufSLnKQDoBFX5mgkDCgR,2018-10-19,day,84
+483,Joyous Celebration,Ndenzel' Uncedo Hymn 377 - Live,3BTszrSLAt9f11eWeHNTTc,2021-03-26,day,53
+484,Joyous Celebration,Yesu Wena UnguMhlobo - Live,3j3Jn0bcG8rzliG4vHBYCa,2019-04-05,day,52
+485,Joyous Celebration,Hallelujah Nkateko (Lihle's Version) - Live,5RERHb5WKrWUKoqZniCpiJ,2015-03-02,day,52
+486,Gunna,fukumean,4rXLjWdF2ZZpXCVTfWcshS,2023-06-16,day,93
+487,Gunna,Drip Too Hard (Lil Baby & Gunna),78QR3Wp35dqAhFEc2qAGjE,2018-10-05,day,86
+488,Gunna,Lemonade (feat. NAV),1p0rEzrK7YtdRZVtiyV7RN,2020-08-28,day,81
+489,Aymos,Izenzo,3pImmSzeKex5ffzsDoaL3z,2023-08-25,day,68
+490,Aymos,Isgubhu,1ng4byy7mejezJ08hs4P7R,2023-10-13,day,57
+491,Aymos,Fatela,58u8z6ia8GTm9yZlkmtCtV,2022-10-28,day,58
+492,A-Reece,VING RHAMES,4I2OqJ0qap2HFxq3JlTION,2023-10-20,day,50
+493,A-Reece,WEST AFRICA TIME,2sj4rMabpUWzy6xATdkM0u,2023-10-20,day,49
+494,A-Reece,ONE TIME,7uloC7Sgo5KNFKrgRepyhJ,2023-10-20,day,48
+495,Inkabi Zezwe,Umbayimbayi,1bmZLmDu9jkzwHInzPsYLD,2023-05-12,day,54
+496,Inkabi Zezwe,Sayona,05A1KzxTLvShctiD0Bsydd,2023-05-12,day,55
+497,Inkabi Zezwe,Khaya Lami,0KG5PG0nz6MmKLbDWtmpdk,2023-05-12,day,50
+498,Khalid,lovely (with Khalid),0u2P5u6lvoDfwTYjAADbn4,2018-04-19,day,91
+499,Khalid,Eastside (with Halsey & Khalid),7FGq80cy8juXBCD2nrqdWU,2018-12-07,day,82
+500,Khalid,Silence,7vGuf3Y35N4wmASOKLUVVU,2017-08-11,day,84
+501,Murumba Pitch,Hamba Juba,4k5FlWz3dfhyQzmRpVPZsW,2023-02-17,day,61
+502,Murumba Pitch,Wena Dali,4hDjmMljGvNZuYUXw1HWw3,2022-11-04,day,56
+503,Murumba Pitch,Esangweni,1kKltSWkRUTB7LYVFJXS2w,2022-11-04,day,55
+504,Spirit Of Praise,Thath'Indawo (Live),7wcjeveluiW5djtxLCxNSx,2022-09-16,day,57
+505,Spirit Of Praise,Moy’ Oyingcwele (Live),0yAyBZ0S4Pnaz2cH4K1w1b,2023-09-15,day,48
+506,Spirit Of Praise,Elshadai Adonai Medley (Live),6Cu35kyDyoWUioEWyiYTpS,2014-11-07,day,49
+507,Mas Musiq,Gangnam Style (feat. DJ Maphorisa & Kabza De Small),1CrwpdodnkXcjPSrg8kw9g,2023-04-21,day,54
+508,Mas Musiq,Sengizwile (feat. Aymos & Young Stunna),3PdO57q0KLWkfWXsXQJlV6,2021-10-01,day,58
+509,Mas Musiq,"Uzozisola (feat. Aymos, Kabza De Small & DJ Maphorisa)",1juCUMeUqFP7oId0SR2Yfg,2021-10-01,day,49
+510,Young Stunna,uNonkosi (feat. Deeper Phil & Mfundo Da DJ),33PDDaCzc8AM8J5EKjO7v2,2023-08-18,day,59
+511,Young Stunna,SETE (feat. Young Stunna & Blxckie),65NAMIdsZkxYIM5ui8SJSw,2022-09-16,day,54
+512,Young Stunna,Sengizwile (feat. Aymos & Young Stunna),3PdO57q0KLWkfWXsXQJlV6,2021-10-01,day,58
+513,2 Chainz,We Own It (Fast & Furious),2OQJKTtrH482waGFmOfJni,2013-01-01,day,72
+514,2 Chainz,Presha,2tvYu1CPNCTmViowWzGw86,2023-11-17,day,63
+515,2 Chainz,Long Story Short,6LVNGPtSPpc4KDFjvLS8c1,2023-11-17,day,64
+516,Young Thug,Trance (with Travis Scott & Young Thug),5wG3HvLhF6Y5KTGlK0IW3J,2022-12-02,day,89
+517,Young Thug,pop ur shit,47yD0e9MCRIB8dgUXPfyW3,2024-01-12,day,83
+518,Young Thug,Hot (Remix) [feat. Gunna and Travis Scott],4ea9w8c4ROqiZpJVhfBA3m,2019-12-20,day,78
+519,Daliwonga,Gangnam Style (feat. DJ Maphorisa & Kabza De Small),1CrwpdodnkXcjPSrg8kw9g,2023-04-21,day,54
+520,Daliwonga,Abo Mvelo (feat. Mellow & Sleazy & M.J),0Ek5bneviajgSzZGonWfds,2022-03-18,day,58
+521,Daliwonga,Kunkra (feat. Xduppy & ShaunMusiq & Ftears),3js04Z5R4L1ZvtLPopSG8l,2023-06-16,day,58
+522,Lil Uzi Vert,Everybody (feat. Lil Uzi Vert),5ZJGv7aGdIr9IGpxzSG18T,2023-12-08,day,88
+523,Lil Uzi Vert,Lucid Dreams (feat. Lil Uzi Vert) - Remix,1jKlRcH7X78ps1yKBTWyUV,2021-05-28,day,65
+524,Lil Uzi Vert,Just Wanna Rock,4Ls53fBNVfaXTROBi6X8Hw,2023-06-30,day,81
+525,$uicideboy$,"...And to Those I Love, Thanks for Sticking Around",30QR0ndUdiiMQMA9g1PGCm,2020-02-14,day,82
+526,$uicideboy$,Antarctica,5UGAXwbA17bUC0K9uquGY2,2016-01-26,day,82
+527,$uicideboy$,Kill Yourself (Part III),0kEZlJh4mK1QRfb3CT5LPk,2015-09-21,day,81
+528,Lil Durk,dangerous,0fyP96TikhD9sM4eKqw5Yp,2024-01-12,day,83
+529,Lil Durk,All My Life (feat. J. Cole),6T7FXSuXykeGktMLGp8WgE,2023-05-26,day,77
+530,Lil Durk,Laugh Now Cry Later (feat. Lil Durk),2SAqBLGA283SUiwJ3xOUVI,2020-08-14,day,81
+531,A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),1f5cbQtDrykjarZVrShaDI,2017-09-29,day,81
+532,A Boogie Wit da Hoodie,My Shit,5uQOauh47VFt3B2kV9kRXw,2016-09-16,day,81
+533,A Boogie Wit da Hoodie,Secrets,2xB46Bj9HZ4cr058yN4Pla,2020-06-19,day,80
+534,"Tyler, The Creator",See You Again (feat. Kali Uchis),7KA4W4McWYRpgf0fWsJZWB,2017-07-21,day,92
+535,"Tyler, The Creator",NEW MAGIC WAND,0fv2KH6hac06J86hBUTcSf,2019-05-17,day,84
+536,"Tyler, The Creator",EARFQUAKE,5hVghJ4KaYES3BFUATCYn0,2019-05-17,day,83
+537,Noah Kahan,Stick Season,0mflMxspEfB0VbI1kyLiAv,2022-10-14,day,96
+538,Noah Kahan,Dial Drunk (with Post Malone),22VHOlVYBqytsrAqV8yXBK,2023-07-18,day,87
+539,Noah Kahan,Northern Attitude (with Hozier),4oEf84vBYVftf6KmZexhVo,2023-11-10,day,84
+540,Yeat,IDGAF (feat. Yeat),2YSzYUF3jWqb9YP9VXmpjE,2023-10-06,day,92
+541,Yeat,Out thë way,6IyoLWzljeR3ldQo4KWHT6,2022-09-09,day,84
+542,Yeat,Flawlëss (feat. Lil Uzi Vert),1a019wP7IdYLexwbmfZPm3,2022-09-09,day,82
+543,Polo G,Martin & Gina,1VLtjHwRWOVJiE5Py7JxoQ,2020-05-15,day,83
+544,Polo G,RAPSTAR,18vXApRmJSgQ6wG2ll9AOg,2021-06-11,day,81
+545,Polo G,Pop Out (feat. Lil Tjay),6uFn47ACjqYkc0jADwEdj1,2019-06-07,day,80
+546,Pop Smoke,Dior,79s5XnCN4TJKTVMSmOx8Ep,2019-07-26,day,83
+547,Pop Smoke,What You Know Bout Love,1tkg4EHVoqnhR6iFEXb60y,2020-07-03,day,82
+548,Pop Smoke,For The Night (feat. Lil Baby & DaBaby),0PvFJmanyNQMseIFrU708S,2020-07-03,day,80
